@@ -5,10 +5,10 @@
 欢迎使用 Ubuntu 配置脚本 README。本文件将指导您如何使用 `setup.sh` 脚本来配置您的 Ubuntu 系统，安装各种工具和实用程序。该脚本提供了一种方便的方法来安装一系列的软件包，您可以选择进行完整安装，或者根据需要选择特定的软件包进行安装。
 
 
-![Screenshot from 2017-10-23 22-01-52.png](http://upload-images.jianshu.io/upload_images/3127217-5aba480a92e0229e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![Ubuntu 桌面美化效果](assets/screenshots/ubuntu-desktop.webp)
 
 
-![Screenshot from 2017-10-23 22-01-35.png](http://upload-images.jianshu.io/upload_images/3127217-259258316bcc280f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![Ubuntu 主题与桌面设置](assets/screenshots/ubuntu-theme-settings.webp)
 
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/be2bd70f02034279ad6ca2dea364a2bb.png)
