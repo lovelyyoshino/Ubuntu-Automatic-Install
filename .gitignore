@@ -1,0 +1,11 @@
+# 下载的安装包和本机生成文件不纳入源码仓库。
+*.deb
+*.rpm
+*.AppImage
+*.run
+.DS_Store
+# 不纳入非官方授权工具或密钥文件。
+/jetbra/
+/jetbra-2024/
+/ja-netfilter.jar
+**/激活码.txt
